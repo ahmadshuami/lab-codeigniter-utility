@@ -9,7 +9,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  * @copyright   Copyright (c) 2017-2019, Ahmad Shuami
  * 
  * @license     MIT License     https://opensource.org/licenses/MIT
- * @link        https://www.facebook.com/ahmadshuami
+ * @link        https://www.bicarailmu.com      https://www.facebook.com/ahmadshuami
  * 
  * @version     1.0.4
  */
