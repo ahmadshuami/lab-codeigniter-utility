@@ -50,7 +50,7 @@ class Utility {
      */
     public function custom_month($myDate)
     {
-        $arrMonth =
+        $arrMonth = [
             ['January','Januari'],
             ['February','Februari'],
             ['March','Mac'],
