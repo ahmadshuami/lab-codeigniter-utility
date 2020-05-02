@@ -18,17 +18,19 @@ class Utility {
 
     protected $myUtility;
 
+    /**
+     * __construct
+     * 
+     */
     public function __construct()
     {
         $this->myUtility =& get_instance();
     }
 
     /**
-     * new_csrf
-     * 
-     * Reset crsf token
+     * Reset crsf token.
      *
-     * @return mixed
+     * @return array
      */
     public function new_csrf() 
     {
@@ -40,13 +42,10 @@ class Utility {
     }
 
     /**
-     * custom_month
-     * 
-     * Return month in Bahasa Malaysia
+     * Return month in Bahasa Malaysia.
      *
      * @param  string $mydate
-     *
-     * @return string
+     * @return string $returnMonth
      */
     public function custom_month($myDate)
     {
@@ -75,13 +74,10 @@ class Utility {
     }
 
     /**
-     * custom_day
-     * 
-     * Return day in Bahasa Malaysia
+     * Return day in Bahasa Malaysia.
      *
-     * @param  string $myday
-     *
-     * @return void
+     * @param  string $myDay
+     * @return string $returnDay
      */
     public function custom_day($myDay)
     {
