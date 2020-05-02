@@ -4,12 +4,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 /**
  * Class Utility
  * 
- * @package     Library
- * @author     	Ahmad Shuami  <shuami79@yahoo.com>
+ * @package     Library (CodeIgniter 3)
+ * @author     	Ahmad Shuami  <shuamilabs@gmail.com>
  * @copyright   Copyright (c) 2019, Ahmad Shuami
  * 
  * @license     MIT License     <https://opensource.org/licenses/MIT>
- * @link        https://www.bicarailmu.com
+ * @link        https://shuamilabs.blogspot.com
  * @link        https://github.com/ahmadshuami/lab-codeigniter-utility
  * 
  * @version     1.0.4
