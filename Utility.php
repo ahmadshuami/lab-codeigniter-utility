@@ -37,7 +37,7 @@ class Utility {
         $csrf_name = $this->myUtility->security->get_csrf_token_name();
         $csrf_hash = $this->myUtility->security->get_csrf_hash();
 
-        // csrf_name => change it accordingly in config.php file
+        // csrf_name: This name is based on what has been declared in config.php file
         echo json_encode(['csrf_name' => $csrf_name, 'csrf_hash' => $csrf_hash]);
     }
 
