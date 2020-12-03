@@ -1,5 +1,5 @@
 # lab-codeigniter-utility
-Simple utility for use in codeigniter projects. I use this for my lab project. Feel free to change at your own risk.
+Simple utility to use in the Codeigniter projects. I use it in my lab project. You can use it at your own risk.
 
 # Installation
 Save in application/libraries folder
